@@ -1,0 +1,16 @@
+C:\Users\Андрей\RiderProjects\Integral\bin\Debug\net5.0\Integral.exe
+C:\Users\Андрей\RiderProjects\Integral\bin\Debug\net5.0\Integral.deps.json
+C:\Users\Андрей\RiderProjects\Integral\bin\Debug\net5.0\Integral.runtimeconfig.json
+C:\Users\Андрей\RiderProjects\Integral\bin\Debug\net5.0\Integral.runtimeconfig.dev.json
+C:\Users\Андрей\RiderProjects\Integral\bin\Debug\net5.0\Integral.dll
+C:\Users\Андрей\RiderProjects\Integral\bin\Debug\net5.0\ref\Integral.dll
+C:\Users\Андрей\RiderProjects\Integral\bin\Debug\net5.0\Integral.pdb
+C:\Users\Андрей\RiderProjects\Integral\obj\Debug\net5.0\Integral.csproj.AssemblyReference.cache
+C:\Users\Андрей\RiderProjects\Integral\obj\Debug\net5.0\Integral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\RiderProjects\Integral\obj\Debug\net5.0\Integral.AssemblyInfoInputs.cache
+C:\Users\Андрей\RiderProjects\Integral\obj\Debug\net5.0\Integral.AssemblyInfo.cs
+C:\Users\Андрей\RiderProjects\Integral\obj\Debug\net5.0\Integral.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\RiderProjects\Integral\obj\Debug\net5.0\Integral.dll
+C:\Users\Андрей\RiderProjects\Integral\obj\Debug\net5.0\ref\Integral.dll
+C:\Users\Андрей\RiderProjects\Integral\obj\Debug\net5.0\Integral.pdb
+C:\Users\Андрей\RiderProjects\Integral\obj\Debug\net5.0\Integral.genruntimeconfig.cache
